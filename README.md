@@ -1,6 +1,6 @@
 0. Intro to MERN
 - node-modules folders are deleted
--full stack
+- full stack
 
 - frontend layer: React -modern frontend   
   framework
